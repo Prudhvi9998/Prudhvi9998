@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Chowdary</h1>
 <h3 align="center">Software developer based in India, passionate about solving complex problems through code. Currently exploring Data Science and its applications.</h3>
 
-- 🌱 I’m currently learning **Data Science, SpringBoot,DSA**
+- 🌱 I’m currently learning **Data Science, SpringBoot,DSA** 
 
 - 💬 Ask me about **Java,Python**
 
